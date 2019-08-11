@@ -1,7 +1,7 @@
 {
     # Points toward the online master .version file. This mod works by comparing
     # the local and online version to check if there is a newer version available.
-    "masterVersionFile":"XXX",
+    "masterVersionFile":"https://github.com/randoomx8/Industro-VERCHK-DATA/blob/master/industromechs.version",
     "modName":"Industro - Mechs",
     "modVersion":
     {
