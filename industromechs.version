@@ -1,0 +1,12 @@
+{
+    # Points toward the online master .version file. This mod works by comparing
+    # the local and online version to check if there is a newer version available.
+    "masterVersionFile":"XXX",
+    "modName":"Industro - Mechs",
+    "modVersion":
+    {
+        "major":1, # Add one value here EVERY (public) UPDATE.
+        "minor":0, # DO NOT UTILIZE
+        "patch":VERCHK
+    },
+}
