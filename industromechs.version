@@ -2,12 +2,13 @@
     # Points toward the online master .version file. This mod works by comparing
     # the local and online version to check if there is a newer version available.
     "masterVersionFile":"https://raw.githubusercontent.com/randoomx8/Industro-VERCHK-DATA/master/industromechs.version",
+	# Industro VERCHKDATA loc https://github.com/randoomx8/Industro-VERCHK-DATA
     "modName":"Industro - Mechs",
-    "modThreadId":15998,
-    "modVersion":
+	"modThreadId":15998,
+	"modVersion":
     {
-        "major":1, # Add one value here EVERY (public) UPDATE.
-        "minor":0, # DO NOT UTILIZE
+        "major":2, # Add one value here EVERY (public) UPDATE.
+		"minor":0, # DO NOT UTILIZE
         "patch":VERCHK
     },
 }
